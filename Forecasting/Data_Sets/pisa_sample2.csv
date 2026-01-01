@@ -1,0 +1,653 @@
+st_gender,st_spg,st_mmog,st_age,st_immig,st_belong,st_repeat,pa_books,pa_educ,pa_escs,W_FSTUWT,math_score,scie_score,read_score,good_math,good_scie,good_read,bad_math,bad_scie,bad_read
+Male,Every day,Almost every day,15.75,Native,.6051,0,201-500 books,18,.3905,145.2927,678.91632,733.50909,708.95801,1,1,1,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.75,Second-Generation,-.5753,0,101-200 books,15,.8668,140.4505,570.7926,585.23822,614.9549,0,0,1,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.58,Native,.3171,0,201-500 books,18,1.2289,140.4505,552.14429,565.56097,575.73669,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.75,Native,.3171,0,101-200 books,18,1.706,146.443,616.1073,615.25812,582.13123,1,1,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,1.5611,0,201-500 books,15,.9255,94.26875,480.69321,486.08578,486.7067,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,2.5915,0,11-25 books,10,-1.0923,94.26875,458.51239,436.67361,489.39911,0,0,0,0,1,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,.6642,0,11-25 books,15,.0069,94.26875,542.55487,528.77539,519.37219,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.08,Native,-.3612,0,26-100 books,13,-.4542,94.26875,480.19531,457.67459,509.8255,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,.6642,0,More than 500 books,18,1.1186,94.26875,526.7724,502.67059,515.83789,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.92,Native,.5531,0,201-500 books,18,1.2374,94.26875,494.92581,487.03159,559.34351,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,-1.6141,0,201-500 books,13,-.1182,94.26875,517.3064,498.89981,478.51199,0,0,0,0,0,0
+Female,Almost every day,Never or hardly ever,16.25,Native,1.5043,0,26-100 books,10,-.1004,94.26875,524.93701,542.21289,567.92529,0,0,0,0,0,0
+Female,Almost every day,Never or hardly ever,15.92,Native,-1.4084,0,101-200 books,18,.917,94.26875,364.12521,393.16422,408.2005,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,-.9663,0,26-100 books,15,.326,94.26875,503.3645,505.17419,471.1774,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,-.0523,0,101-200 books,15,.1293,94.26875,609.0415,635.79858,656.45978,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16,Native,-.0621,0,11-25 books,13,-.28,94.26875,586.31927,582.09387,601.46509,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,-.6155,0,201-500 books,18,1.6318,94.26875,502.2836,544.26068,551.60217,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.17,Native,.9646,0,201-500 books,15,.3981,94.26875,618.80823,673.64142,645.10712,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,.9646,0,26-100 books,13,-.1409,94.26875,480.06949,429.50879,447.97989,0,0,0,0,1,1
+Male,Never or hardly ever,Never or hardly ever,16.08,Native,.6642,0,26-100 books,13,.1518,133.946,516.67151,527.94598,491.48639,0,0,0,0,0,0
+Male,Once or twice a month,Almost every day,15.92,Second-Generation,.9357,0,26-100 books,13,.4641,133.946,531.74463,531.38898,506.17941,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Second-Generation,.9357,1,201-500 books,18,1.1175,95.19745,315.2326,318.23279,366.95929,0,0,0,1,1,1
+Male,Never or hardly ever,Never or hardly ever,15.42,Native,1.398,0,26-100 books,10,-.5876,96.39624000000001,495.11969,513.80737,467.94479,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.5,Native,1.5611,0,101-200 books,13,.2142,95.19745,505.50009,548.00128,499.88501,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.58,Native,2.5915,0,201-500 books,18,1.5699,96.39624000000001,398.58759,459.40829,479.00241,0,0,0,1,0,0
+Male,Once or twice a month,Once or twice a week,15.83,Native,1.0269,0,26-100 books,13,.4176,96.39624000000001,509.23929,508.07071,469.50439,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.92,Native,.6642,1,More than 500 books,18,1.4401,96.39624000000001,525.17358,579.54999,557.00439,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16,Native,.4638,0,11-25 books,10,-.5337,89.30546,440.3688,513.4635,537.04559,0,0,0,1,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,.9357,0,More than 500 books,18,2.3287,89.30546,511.6239,534.79791,539.9549,0,0,0,0,0,0
+Male,Almost every day,Once or twice a week,16.33,Native,-1.7993,0,201-500 books,15,.8135,92.87165,550.37799,570.43762,536.89319,0,0,0,0,0,0
+Male,Almost every day,Never or hardly ever,16.25,Native,.2947,0,201-500 books,13,.2202,92.87165,513.7168,552.96582,555.95062,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,16.25,Native,2.5915,0,201-500 books,18,1.5272,92.87165,565.86859,581.88928,591.09967,0,0,0,0,0,0
+Male,Once or twice a month,Almost every day,16.25,Native,.0575,1,26-100 books,18,.1999,92.87165,504.19629,522.86261,483.19409,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a week,16.33,Native,2.5915,0,26-100 books,18,.4776,92.87165,538.69611,543.45129,541.78833,0,0,0,0,0,0
+Male,Almost every day,Almost every day,16.08,Native,.6642,0,26-100 books,18,.4952,92.87165,591.75189,628.60498,607.92273,0,1,1,0,0,0
+Male,Once or twice a month,Once or twice a week,15.92,Native,-.2889,0,More than 500 books,18,1.5719,92.87165,542.45679,594.24719,575.03711,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.83,Native,.6642,1,101-200 books,10,-1.5803,95.19745,517.17358,563.3866,601.117,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,-.9024,0,201-500 books,18,1.4129,95.19745,527.51941,562.64893,591.95142,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,15.75,Native,1.5043,0,26-100 books,18,1.332,96.39624000000001,561.34943,599.56659,559.7359,0,0,0,0,0,0
+Male,Every day,Every day,15.58,Native,-.6488,0,101-200 books,10,-.7932,96.39624000000001,459.142,462.34,454.0928,0,0,0,0,0,0
+Male,Almost every day,Almost every day,16,Native,.9357,1,11-25 books,18,.5844,96.39624000000001,525.60901,552.297,564.70459,0,0,0,0,0,0
+Male,Once or twice a week,Almost every day,15.83,Native,.6642,0,26-100 books,10,-1.0134,96.39624000000001,441.44629,457.02661,403.7215,0,0,0,1,0,1
+Female,Once or twice a month,Never or hardly ever,15.5,Native,-1.0536,0,101-200 books,18,1.267,139.7109,578.21918,609.46191,583.7793,0,1,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.58,Native,.412,0,11-25 books,18,1.0334,125.9353,612.65509,620.9552,617.20837,1,1,1,0,0,0
+Male,Every day,Every day,15.67,Second-Generation,1.5611,0,0-10 books,15,-.4393,125.9353,521.4726,539.6626,545.29523,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.42,Native,.4638,0,26-100 books,10,-1.2797,125.9353,434.44641,415.54889,463.65771,0,0,0,1,1,0
+Male,Every day,Every day,15.42,Native,.6642,0,More than 500 books,15,-.5605,125.9353,616.30811,663.39032,619.34363,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,-.3381,0,201-500 books,18,1.5396,132.2676,638.47681,672.75519,661.46722,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,-.3381,0,101-200 books,18,1.1198,132.2676,496.26279,573.90338,622.28601,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Second-Generation,.2947,0,201-500 books,15,.5141,132.2676,535.88202,547.63147,570.46991,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,.1052,0,101-200 books,15,.5541,132.2676,607.19861,662.4397,709.00153,1,1,1,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.17,Native,.6642,0,0-10 books,15,-.1319,132.2676,466.28479,457.59259,517.21552,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.25,Native,.2947,0,26-100 books,13,-.038,132.2676,565.4118,583.039,574.67151,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,16.17,Native,2.5915,0,More than 500 books,18,1.5472,125.9353,565.0968,541.4696,597.99237,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.83,Second-Generation,.2947,0,26-100 books,15,-.5699,125.9353,538.28473,573.7807,603.73657,0,0,1,0,0,0
+Male,Once or twice a week,Once or twice a week,15.75,Native,1.5611,0,201-500 books,10,.0097,125.9353,554.90942,543.98621,592.62781,0,0,0,0,0,0
+Male,Never or hardly ever,Almost every day,15.92,Native,.514,0,101-200 books,18,1.1,125.9353,578.04669,608.29669,625.3761,0,1,1,0,0,0
+Male,Every day,Every day,15.67,Native,2.5915,0,11-25 books,13,.3912,125.9353,567.08362,608.16449,615.73358,0,1,1,0,0,0
+Male,Every day,Every day,15.75,Native,.4638,0,26-100 books,18,1.0199,125.9353,526.47021,537.07562,555.021,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,.9357,0,26-100 books,13,-.3322,132.2676,546.78149,571.45978,668.63739,0,0,1,0,0,0
+Female,Once or twice a week,Every day,15.83,Native,.4638,0,201-500 books,18,.8034,139.7109,559.24921,611.9054,641.4444,0,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,2.5915,0,101-200 books,18,1.1626,139.7109,619.44452,662.70819,653.78979,1,1,1,0,0,0
+Male,Never or hardly ever,Almost every day,15.33,Second-Generation,.3311,0,201-500 books,18,1.4041,125.9353,630.57123,590.55682,656.52582,1,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,1.0269,0,More than 500 books,13,.6357,105.1857,389.49341,457.48941,480.96729,0,0,0,1,0,0
+Male,Almost every day,Once or twice a month,15.5,Native,.2067,0,201-500 books,18,1.3577,105.1857,601.42621,732.7326,678.42731,1,1,1,0,0,0
+Male,Once or twice a week,Never or hardly ever,15.58,Native,.1985,0,More than 500 books,18,1.2395,105.1857,615.76538,640.72028,647.64117,1,1,1,0,0,0
+Male,Every day,Once or twice a month,15.5,Native,1.398,0,More than 500 books,18,1.7289,105.1857,616.5354,645.51367,586.31403,1,1,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,1.5043,0,More than 500 books,18,1.4192,105.1857,609.1272,637.1972,619.92853,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,-.4089,0,More than 500 books,18,2.0668,105.1857,696.5271,720.66919,682.16919,1,1,1,0,0,0
+Female,Never or hardly ever,Once or twice a month,15.75,Native,.3171,0,More than 500 books,18,2.4007,105.1857,497.56421,518.1001,562.34351,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.92,Native,.4638,0,201-500 books,15,.734,105.1857,551.90948,600.71442,631.04633,0,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,.5531,0,More than 500 books,18,1.8014,105.1857,597.53162,611.3775,620.30573,0,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,.2526,0,More than 500 books,18,1.7272,105.1857,627.79077,686.61462,650.94501,1,1,1,0,0,0
+Male,Once or twice a week,Almost every day,15.92,Native,-.082,0,201-500 books,18,1.3862,110.1059,577.46289,641.59869,600.17151,0,1,1,0,0,0
+Male,Once or twice a month,Almost every day,15.92,Native,.75,0,201-500 books,18,2.2673,110.1059,595.89478,618.8349,571.6131,0,1,0,0,0,0
+Male,Never or hardly ever,Once or twice a week,16,Native,.4451,0,201-500 books,18,1.2189,110.1059,595.88989,629.8454,629.92517,0,1,1,0,0,0
+Male,Never or hardly ever,Once or twice a month,16,Native,.0248,0,201-500 books,10,-.2095,110.1059,614.09052,639.64252,642.68872,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Second-Generation,.1282,0,11-25 books,15,-.4831,105.1857,477.49051,520.24561,516.31262,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.75,Native,1.398,0,101-200 books,18,1.4691,110.1059,606.26837,654.03088,620.82397,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,-.1862,0,More than 500 books,13,-.0938,105.1857,544.87579,556.77832,540.88098,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,-.9388,0,26-100 books,10,-1.3504,107.348,474.05179,471.8049,451.48911,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,.3648,0,26-100 books,18,.106,107.348,303.4429,275.07101,291.4422,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,-1.4862,0,101-200 books,10,-1.0945,107.348,488.0116,537.75873,560.79968,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.67,Second-Generation,.3171,0,0-10 books,10,-1.3887,107.348,486.5466,472.50449,448.21631,0,0,0,0,0,1
+Male,Once or twice a month,Never or hardly ever,15.42,Native,2.5915,0,101-200 books,15,-.0265,107.348,460.69809,439.86292,423.10172,0,0,0,0,1,1
+Male,Never or hardly ever,Never or hardly ever,15.42,Second-Generation,.0218,0,0-10 books,13,-.9114,107.348,406.06,336.41119,341.64651,0,0,0,1,1,1
+Male,Never or hardly ever,Never or hardly ever,15.42,Native,-1.4235,0,0-10 books,10,-1.2586,107.348,457.24731,440.73651,383.68121,0,0,0,0,1,1
+Female,Once or twice a week,Once or twice a week,16,Native,-1.4462,1,26-100 books,13,-.4368,88.54268999999999,460.2421,428.1441,442.97409,0,0,0,0,1,1
+Male,Almost every day,Almost every day,15.83,Second-Generation,-.378,1,0-10 books,18,.8123,88.54268999999999,357.57089,343.87009,332.4071,0,0,0,1,1,1
+Male,Once or twice a month,Once or twice a week,15.75,Second-Generation,.6642,1,11-25 books,3,-2.3808,88.54268999999999,453.17471,426.60129,420.0271,0,0,0,0,1,1
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,-.8058,1,11-25 books,18,-.5234,88.54268999999999,371.73779,331.1777,352.87161,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,1.398,0,101-200 books,18,.0902,88.54268999999999,442.5683,450.01471,461.733,0,0,0,1,0,0
+Female,Almost every day,Every day,15.5,Native,-1.2097,0,26-100 books,10,-.5325,88.54268999999999,559.39563,554.4787,549.85358,0,0,0,0,0,0
+Male,Almost every day,Almost every day,16.25,First-Generation,.485,0,26-100 books,15,-.3386,88.54268999999999,447.54129,461.1861,513.03583,0,0,0,1,0,0
+Male,Every day,Every day,15.92,Native,-.7429,1,26-100 books,18,1.3145,88.54268999999999,474.0188,436.88739,405.31119,0,0,0,0,1,1
+Female,Once or twice a month,Once or twice a month,15.92,Second-Generation,.6642,0,26-100 books,13,.2659,97.92468,462.16071,443.5762,484.52271,0,0,0,0,1,0
+Female,Once or twice a week,Never or hardly ever,16.25,Native,.412,0,101-200 books,18,1.1746,97.92468,494.30341,502.59351,493.45471,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a week,15.92,Native,.4438,0,26-100 books,18,1.0352,88.54268999999999,531.88953,497.41589,483.15601,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a month,15.92,Native,.9357,0,26-100 books,18,.5505,88.54268999999999,509.42639,525.6405,511.2915,0,0,0,0,0,0
+Male,Almost every day,Almost every day,16.33,Second-Generation,2.5915,0,26-100 books,13,-.3918,88.54268999999999,527.28131,509.46179,522.78833,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,16,Second-Generation,.8154,0,26-100 books,18,.4054,88.54268999999999,436.73569,401.34271,436.4989,0,0,0,1,1,1
+Male,Never or hardly ever,Almost every day,16.25,Second-Generation,.9357,0,11-25 books,18,-.3473,88.54268999999999,532.23822,443.45999,475.43869,0,0,0,0,1,0
+Female,Once or twice a month,Once or twice a month,15.42,Native,-.5435,0,101-200 books,18,.2347,88.54268999999999,399.44711,372.78931,400.45459,0,0,0,1,1,1
+Female,Almost every day,Never or hardly ever,15.5,Native,.0126,0,26-100 books,13,-1.001,88.54268999999999,437.48599,410.0032,391.18179,0,0,0,1,1,1
+Male,Once or twice a month,Almost every day,15.67,Second-Generation,2.2154,0,11-25 books,10,-.4533,88.54268999999999,407.6449,351.09781,374.24301,0,0,0,1,1,1
+Male,Almost every day,Almost every day,15.67,Second-Generation,.6642,0,26-100 books,18,1.1195,88.54268999999999,405.4437,408.48041,483.99741,0,0,0,1,1,0
+Female,Once or twice a month,Never or hardly ever,15.5,Native,1.398,0,26-100 books,18,1.0474,104.7439,616.91278,582.44537,577.43829,1,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.5,Native,.4801,0,201-500 books,15,.3873,104.7439,578.62939,615.7876,621.73547,0,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.33,Native,.0901,0,201-500 books,18,1.6751,104.7439,519.00079,543.6709,584.67761,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.75,Native,-.8219,0,101-200 books,18,1.3106,104.3414,685.35797,654.20569,631.01837,1,1,1,0,0,0
+Male,Once or twice a week,Almost every day,15.42,Native,1.0269,0,101-200 books,18,1.4273,104.3414,607.24591,604.59418,600.5946,1,1,1,0,0,0
+Female,Once or twice a week,Once or twice a week,15.83,Native,-.3824,0,101-200 books,13,-.5941,100.1722,632.43408,633.6665,612.85773,1,1,1,0,0,0
+Female,Once or twice a month,Once or twice a week,15.92,Native,1.398,0,26-100 books,18,1.2252,100.1722,565.83313,548.28552,563.24591,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.17,Native,.6642,0,201-500 books,13,.1078,100.1722,570.74902,554.5564,558.80701,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16,Native,-.8913,0,11-25 books,18,.5433,100.1722,598.41998,569.01257,568.52179,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,16.25,Native,.2493,0,201-500 books,15,.114,100.1722,608.28552,669.66119,618.55402,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,.2947,0,26-100 books,18,1.3707,100.1722,517.87061,504.2355,569.87927,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Second-Generation,2.5915,0,101-200 books,18,1.5486,100.1722,481.4444,480.9118,551.1142,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.67,Native,.02,0,More than 500 books,18,1.6287,100.1722,653.45178,676.14288,679.07233,1,1,1,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.67,Native,.2947,0,201-500 books,18,1.5298,100.1722,685.41949,716.9118,676.44647,1,1,1,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.67,Native,-.4475,0,More than 500 books,18,1.2375,100.1722,634.27679,667.40118,604.70508,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,.8589,0,201-500 books,18,1.7031,100.1722,604.18762,606.50787,586.21802,1,1,0,0,0,0
+Male,Once or twice a week,Almost every day,16.17,Native,-.5242,0,101-200 books,18,1.3806,111.4092,666.97308,659.23608,628.2049,1,1,1,0,0,0
+Male,Once or twice a month,Every day,15.92,Native,2.5915,0,More than 500 books,18,1.61,111.4092,605.31201,629.40948,604.51379,1,1,1,0,0,0
+Male,Once or twice a week,Once or twice a week,16.08,Native,1.5043,0,More than 500 books,18,1.3808,111.4092,631.95972,607.87781,586.89532,1,1,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,16,Native,.3812,0,More than 500 books,18,1.4211,111.4092,716.01361,696.86377,667.79907,1,1,1,0,0,0
+Male,Almost every day,Every day,16,Native,2.5915,0,More than 500 books,18,1.904,111.4092,632.55048,614.76147,571.77411,1,1,0,0,0,0
+Male,Every day,Every day,15.92,Native,.6642,0,26-100 books,15,.1138,111.4092,580.05591,605.08679,604.15021,0,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,.2015,0,More than 500 books,18,1.0727,104.7439,581.02667,537.69098,563.05951,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,-.3381,0,26-100 books,10,-1.1761,71.78163000000001,417.31689,429.0907,407.91669,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,-.0621,0,26-100 books,13,-.7538,71.78163000000001,437.5817,460.0567,433.724,0,0,0,1,0,1
+Female,Almost every day,Never or hardly ever,15.42,Native,-.4725,0,26-100 books,13,-1.0703,71.78163000000001,506.92279,517.58783,547.69812,0,0,0,0,0,0
+Female,Every day,Almost every day,15.75,Native,.9357,1,11-25 books,13,-.9742,71.78163000000001,478.1799,468.43649,462.16519,0,0,0,0,0,0
+Male,Almost every day,Every day,15.67,Native,-1.0562,0,26-100 books,3,-1.5686,69.89073999999999,546.62543,593.22858,569.28369,0,0,0,0,0,0
+Male,Every day,Every day,15.42,Native,.4904,0,0-10 books,13,-.8573,69.89073999999999,374.20349,345.9375,332.19989,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.58,Second-Generation,-.0621,0,101-200 books,10,-.9216,71.78163000000001,407.13721,440.1843,471.1431,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Second-Generation,.4597,0,11-25 books,3,-2.4665,71.78163000000001,493.28281,514.37939,512.57141,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,-.4092,0,26-100 books,13,.1647,71.78163000000001,536.61249,550.54163,572.85132,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,First-Generation,.1643,0,11-25 books,18,.6186,71.78163000000001,371.99091,336.45459,424.98041,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.83,First-Generation,-.7194,0,26-100 books,18,.9602000000000001,71.78163000000001,471.17499,448.2247,439.07849,0,0,0,0,1,1
+Female,Never or hardly ever,Never or hardly ever,16.17,Second-Generation,-.3776,0,0-10 books,10,-1.2599,71.78163000000001,389.8674,365.12839,362.5311,0,0,0,1,1,1
+Male,Once or twice a week,Every day,15.67,Native,-.5626,0,201-500 books,13,-.0722,69.89073999999999,569.92352,546.89337,560.11823,0,0,0,0,0,0
+Male,Never or hardly ever,Almost every day,15.83,Native,-1.3014,0,101-200 books,15,-.2435,69.89073999999999,505.59131,511.51071,506.07932,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,.1434,0,11-25 books,18,.6439,71.78163000000001,484.20111,528.73352,548.5517,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.5,First-Generation,-1.5827,0,26-100 books,10,-1.0598,71.78163000000001,394.47241,373.75409,427.13159,0,0,0,1,1,1
+Female,Once or twice a month,Never or hardly ever,15.5,Second-Generation,.0248,0,11-25 books,13,-.4414,71.78163000000001,442.07309,459.25171,463.8446,0,0,0,1,0,0
+Male,Never or hardly ever,Never or hardly ever,16.08,Native,-.0621,0,101-200 books,10,-.9467,69.89073999999999,582.56543,608.54468,551.41962,0,1,0,0,0,0
+Male,Once or twice a week,Almost every day,16.25,Native,-.9626,0,11-25 books,10,-1.3326,69.89073999999999,544.82813,593.61432,503.1673,0,0,0,0,0,0
+Male,Once or twice a month,Almost every day,15.42,Second-Generation,1.0269,0,26-100 books,10,-.663,69.89073999999999,543.51703,557.21362,562.35687,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a week,15.5,Native,-.0621,0,0-10 books,10,-1.1507,69.89073999999999,498.95419,504.6731,504.7951,0,0,0,0,0,0
+Male,Never or hardly ever,Once or twice a week,16.33,Second-Generation,.6642,1,201-500 books,18,.164,69.89073999999999,445.53851,425.00909,472.33789,0,0,0,1,1,0
+Male,Almost every day,Almost every day,15.67,Native,-.3381,0,101-200 books,13,.5348000000000001,157.8039,560.54279,579.17468,612.65118,0,0,1,0,0,0
+Female,Once or twice a month,Once or twice a month,15.42,Second-Generation,.6642,0,101-200 books,13,-.0055,139.0758,339.8924,314.1012,339.30011,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,16.33,Second-Generation,1.5043,0,11-25 books,13,-.4695,139.0758,544.39783,571.19568,597.05627,0,0,0,0,0,0
+Female,Once or twice a month,Once or twice a month,15.92,Second-Generation,.412,0,101-200 books,13,-.2011,139.0758,504.00269,496.8934,523.53119,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a month,16.17,Second-Generation,-.4538,0,26-100 books,10,-.8438,156.5644,480.8223,442.4939,434.88559,0,0,0,0,1,1
+Male,Once or twice a month,Never or hardly ever,16.08,Second-Generation,2.5915,0,11-25 books,15,-.7272999999999999,156.5644,426.36081,417.45959,383.12961,0,0,0,1,1,1
+Female,Once or twice a month,Once or twice a week,15.5,Native,.9646,0,26-100 books,10,-1.0737,109.6559,498.42609,526.82617,574.21021,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.67,Native,-.928,0,26-100 books,13,.1169,109.6559,539.42047,557.41827,529.3349,0,0,0,0,0,0
+Female,Once or twice a week,Once or twice a week,15.42,Native,2.5915,0,101-200 books,13,-.5057,109.6559,464.07611,416.97961,423.00241,0,0,0,0,1,1
+Male,Once or twice a week,Almost every day,15.58,Native,1.1245,0,26-100 books,15,.5693,109.6747,620.25488,614.29303,590.2016,1,1,0,0,0,0
+Male,Almost every day,Almost every day,15.67,Native,.045,0,11-25 books,13,-.2454,109.6747,530.59631,550.58929,521.06921,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,15.75,Native,.2947,0,201-500 books,13,.3688,109.6747,530.5896,512.86292,539.72742,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,16,Native,.6642,0,101-200 books,15,.4688,110.4779,641.32703,640.18872,605.81012,1,1,1,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.83,Native,-.4747,0,101-200 books,13,-.5011,110.4779,675.65521,706.37439,615.9671,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,-1.1579,0,201-500 books,13,-.6242,110.4779,571.40302,561.99188,589.60828,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,.2048,0,101-200 books,15,.7801,110.4779,491.8895,481.013,515.68188,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16,Native,-.5558999999999999,0,26-100 books,10,-.8239,110.4779,561.6449,544.45728,580.60681,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.83,Native,.9646,0,More than 500 books,18,1.4639,110.4779,618.53571,626.28998,642.08789,1,1,1,0,0,0
+Female,Once or twice a month,Never or hardly ever,16,Native,.2947,0,101-200 books,15,.4449,110.4779,524.35712,539.80603,537.349,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.83,Native,.2774,0,11-25 books,10,-1.2132,105.4217,503.77081,536.97137,519.71997,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.92,Native,-1.0891,0,26-100 books,13,.1035,105.4217,545.21088,571.30658,522.13818,0,0,0,0,0,0
+Male,Almost every day,Once or twice a week,16.08,Native,-1.1064,0,101-200 books,13,-.5184,105.4217,543.526,497.79031,529.89221,0,0,0,0,0,0
+Male,Once or twice a week,Every day,15.83,Native,.412,0,0-10 books,10,-.4072,105.4217,559.51318,574.4472,582.18237,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.4638,0,101-200 books,10,-.719,109.6559,469.53171,473.5426,460.98239,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,1.398,0,26-100 books,10,-.2244,109.6559,486.0549,450.77209,541.88757,0,0,0,0,0,0
+Male,Once or twice a month,Almost every day,15.5,Native,.9357,0,26-100 books,13,-.0762,109.6747,586.04321,582.6712,537.65997,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.5,Native,2.5915,0,11-25 books,13,-1.0609,109.6747,551.73529,487.85391,491.9267,0,0,0,0,0,0
+Male,Almost every day,Every day,15.67,Native,-.3381,0,11-25 books,13,-.2621,109.6747,527.83209,545.01648,552.28778,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,.6642,0,0-10 books,13,-.8854,141.6046,495.02219,473.95261,489.64191,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.58,Native,-2.0518,0,26-100 books,15,.1253,141.6046,456.87689,434.3992,421.3804,0,0,0,0,1,1
+Male,Every day,Every day,15.75,Native,-1.8419,0,0-10 books,18,-.0492,141.6289,455.397,475.12161,433.38599,0,0,0,0,0,1
+Male,Once or twice a month,Never or hardly ever,16.25,Native,-.7862,0,11-25 books,10,-1.2261,141.6289,515.14063,536.53082,498.29871,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,-.2808,0,26-100 books,15,-.4477,142.6662,429.15381,443.1445,457.5582,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,16,Native,-.5351,0,26-100 books,13,.0193,142.6662,481.2471,482.75449,439.52328,0,0,0,0,0,1
+Female,Once or twice a month,Never or hardly ever,15.92,Native,-.3381,0,26-100 books,15,.0614,142.6662,545.3241,593.27301,532.979,0,0,0,0,0,0
+Male,Never or hardly ever,Every day,16.25,Native,-.7309,0,26-100 books,13,-.5639,136.1368,587.64227,592.51532,512.78741,0,0,0,0,0,0
+Male,Once or twice a week,Almost every day,16.25,Second-Generation,.0068,0,More than 500 books,15,-.2219,136.1368,497.5607,548.6366,469.19159,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,16.08,Native,-1.8419,0,201-500 books,13,.1991,136.1368,516.35388,512.52222,478.07211,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,.2947,0,26-100 books,15,-.0497,141.6046,418.68671,424.92191,408.0701,0,0,0,1,1,1
+Male,Never or hardly ever,Never or hardly ever,15.5,Native,-1.0795,0,0-10 books,13,-.462,141.6289,477.37299,499.9458,435.784,0,0,0,0,0,1
+Male,Every day,Every day,15.5,Native,2.5915,0,0-10 books,15,.3583,112.298,406.59,401.2421,425.8168,0,0,0,1,1,1
+Male,Almost every day,Every day,15.42,First-Generation,2.5915,0,11-25 books,10,-1.5094,112.298,392.35419,377.12839,371.79568,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,16.33,Second-Generation,.6642,0,11-25 books,10,-1.338,134.7644,444.8707,463.5787,484.55249,0,0,0,1,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Second-Generation,-.766,1,0-10 books,13,-.9643,134.7644,397.9881,375.33661,403.1348,0,0,0,1,1,1
+Male,Every day,Every day,15.92,Native,2.5915,0,26-100 books,10,-.8027,112.298,460.61169,414.4202,369.31369,0,0,0,0,1,1
+Male,Every day,Every day,15.58,Native,2.5991,0,26-100 books,10,-1.0695,112.298,486.5683,495.3808,478.18829,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.5,Native,-2.0945,0,101-200 books,10,-.6185,112.298,446.88229,419.71219,466.72919,0,0,0,1,1,0
+Male,Almost every day,Once or twice a week,15.42,Native,.0171,0,26-100 books,18,.9508,112.298,531.3587,508.4968,454.1362,0,0,0,0,0,0
+Male,Once or twice a month,Almost every day,15.83,Native,-.3381,0,201-500 books,18,.4923,112.298,447.64951,409.90201,388.29111,0,0,0,1,1,1
+Male,Every day,Every day,15.92,Native,.9646,0,26-100 books,10,-1.2576,112.298,454.14221,457.9827,436.76001,0,0,0,0,0,1
+Male,Every day,Every day,15.5,Native,1.0269,1,11-25 books,13,-.6816,95.10508,515.21088,529.02069,498.1926,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,-.1144,0,201-500 books,13,-.1626,95.10508,529.36877,564.67261,572.099,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.5,Native,.1052,0,101-200 books,18,.7433,95.10508,528.03949,530.4256,490.418,0,0,0,0,0,0
+Female,Once or twice a month,Once or twice a week,15.33,Native,-1.0501,0,More than 500 books,18,1.6403,95.10508,545.97162,583.2796,589.40198,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.33,Native,-.4725,0,201-500 books,15,-.1835,95.10508,467.07629,459.9165,545.3288,0,0,0,0,0,0
+Male,Once or twice a week,Every day,15.58,Native,-.0153,0,201-500 books,15,.2322,95.10508,570.617,587.43811,584.17352,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.58,Native,-.7089,0,11-25 books,13,-.2838,95.10508,504.034,516.91119,547.50891,0,0,0,0,0,0
+Male,Once or twice a week,Every day,15.42,Second-Generation,2.5915,0,201-500 books,15,.3022,95.10508,473.13611,466.2637,485.48871,0,0,0,0,0,0
+Male,Once or twice a month,Never or hardly ever,15.67,Native,.3171,0,26-100 books,15,.3372,95.10508,483.85849,477.65921,475.31921,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.75,Native,-.6334,0,11-25 books,10,-1.1317,95.10508,579.5332,610.53607,561.61121,0,1,0,0,0,0
+Male,Every day,Every day,15.67,Native,-.0499,0,26-100 books,10,-.4369,95.10508,481.64951,452.53619,511.29721,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,.1282,0,More than 500 books,18,1.3032,99.10548,507.0036,494.1713,568.04883,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,.5301,0,11-25 books,15,.3242,99.10548,542.16962,580.31281,625.71777,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,-.085,0,26-100 books,18,1.4857,99.10548,515.38123,581.71979,603.5376,0,0,1,0,0,0
+Female,Almost every day,Almost every day,16,Native,.6642,0,101-200 books,18,1.2806,99.10548,605.51788,597.17682,689.17407,1,0,1,0,0,0
+Male,Once or twice a month,Every day,15.92,Native,-.6196,0,101-200 books,15,.8243,95.10508,617.13342,646.85791,594.35449,1,1,0,0,0,0
+Male,Every day,Every day,15.92,Native,2.5915,0,26-100 books,13,-.1676,95.10508,370.96179,314.62869,352.54901,0,0,0,1,1,1
+Male,Once or twice a week,Once or twice a week,15.92,Native,.9357,0,26-100 books,18,.9422,95.10508,590.09912,601.95892,598.36688,0,1,0,0,0,0
+Male,Never or hardly ever,Once or twice a month,16.08,Native,.5371,0,26-100 books,13,.0221,95.10508,603.98218,669.52808,650.87598,1,1,1,0,0,0
+Male,Never or hardly ever,Every day,16,Native,-.4538,0,201-500 books,13,-.0978,95.10508,596.99689,626.55103,618.95398,0,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,2.5915,0,201-500 books,10,.0026,95.10508,604.42261,609.20831,635.71558,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,1.5611,0,26-100 books,18,.9915,95.10508,534.95349,508.72931,544.66748,0,0,0,0,0,0
+Female,Almost every day,Never or hardly ever,15.67,Native,1.398,0,26-100 books,10,-.1115,95.10508,532.61761,536.35651,588.2757,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a month,15.75,Native,.88,0,101-200 books,15,.286,95.10508,675.2049,688.38843,640.25,1,1,1,0,0,0
+Male,Once or twice a week,Once or twice a week,15.33,Native,1.0269,0,201-500 books,13,-.4751,95.10508,521.5069,592.29541,556.87579,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,.6642,0,26-100 books,13,-.2441,97.89447,518.6344,552.0351,592.4231,0,0,0,0,0,0
+Female,Once or twice a week,Once or twice a week,15.92,Second-Generation,.4638,0,201-500 books,13,.1541,97.89447,548.98651,505.0192,539.94971,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Second-Generation,.9357,0,26-100 books,18,.3942,97.89447,422.54099,379.50821,418.15689,0,0,0,1,1,1
+Female,Once or twice a week,Never or hardly ever,16.08,Native,.9646,0,101-200 books,18,1.0083,97.89447,467.3175,502.34299,517.51477,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,1.5043,0,101-200 books,10,-.334,97.89447,465.17911,475.95969,486.5972,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16,Native,1.5611,0,More than 500 books,18,1.9233,97.89447,520.28851,504.87869,529.2785,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.58,Native,.2365,0,101-200 books,13,-.1187,97.89447,537.0097,570.57611,572.815,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.3171,0,0-10 books,10,-.3421,97.89447,423.10941,381.12189,417.42859,0,0,0,1,1,1
+Female,Almost every day,Almost every day,15.83,Second-Generation,.412,0,26-100 books,10,-1.0135,97.89447,567.79327,579.21411,585.14819,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,.6642,0,26-100 books,15,-1.0206,97.89447,475.3244,504.8735,494.5946,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,.2493,0,101-200 books,18,1.2074,97.89447,508.05051,502.05289,546.72528,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Second-Generation,.1282,0,0-10 books,10,-1.5609,97.89447,417.7699,357.03821,386.7395,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,1.5611,0,201-500 books,18,1.1399,97.89447,559.02161,596.67383,561.2431,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.6642,0,101-200 books,10,-.2157,97.89447,632.15698,640.3808,670.77863,1,1,1,0,0,0
+Male,Almost every day,Almost every day,15.92,Native,.1052,0,26-100 books,13,-1.0796,104.2896,522.85083,566.89862,507.86191,0,0,0,0,0,0
+Male,Once or twice a week,Almost every day,16.08,Native,.9357,1,101-200 books,13,.1692,104.2896,490.41031,450.5126,429.57361,0,0,0,0,0,1
+Male,Never or hardly ever,Never or hardly ever,16.08,Native,-.2913,0,201-500 books,10,.2148,104.2896,485.39209,481.14819,451.32819,0,0,0,0,0,0
+Male,Every day,Every day,16,Native,-2.4441,0,201-500 books,15,.7198,104.2896,460.17349,458.52771,402.0213,0,0,0,0,0,1
+Male,Once or twice a month,Once or twice a month,15.83,Native,.5943000000000001,0,11-25 books,15,.5199,104.2896,450.3735,420.08029,412.25821,0,0,0,0,1,1
+Male,Once or twice a week,Once or twice a week,16.08,Native,.5073,1,11-25 books,18,-.0449,104.2896,386.55829,324.2998,348.64182,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,.4638,0,201-500 books,18,1.6115,89.84468,579.9101,647.03442,616.63531,0,1,1,0,0,0
+Female,Never or hardly ever,Once or twice a month,15.5,Native,-.8127,0,201-500 books,18,.6735,89.84468,553.60822,590.21588,586.0932,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.42,Native,2.5915,0,101-200 books,18,.9165,93.42721,606.8244,628.74518,617.0899,1,1,1,0,0,0
+Male,Almost every day,Almost every day,15.58,Native,.0248,0,26-100 books,18,.9096,93.42721,546.99249,523.95868,558.94611,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a month,15.5,Native,.0806,0,101-200 books,18,1.2718,93.42721,640.37341,674.90399,643.21722,1,1,1,0,0,0
+Male,Once or twice a week,Every day,15.58,Native,.0698,0,201-500 books,18,1.2387,93.42721,583.79462,593.1358,564.46582,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.33,Second-Generation,.0248,0,101-200 books,15,-.4743,93.42721,608.15381,638.33441,615.5014,1,1,1,0,0,0
+Female,Never or hardly ever,Once or twice a month,15.67,Native,2.5915,0,201-500 books,18,1.8071,83.48202000000001,550.8833,596.57288,637.42212,0,0,1,0,0,0
+Male,Almost every day,Almost every day,16,Native,.6642,0,More than 500 books,13,.9422,83.59674,616.62732,653.21759,613.97113,1,1,1,0,0,0
+Male,Once or twice a month,Almost every day,16,Native,1.0269,0,More than 500 books,15,.4145,83.59674,612.72949,629.26941,605.58691,1,1,1,0,0,0
+Male,Never or hardly ever,Once or twice a month,15.92,Native,-.4725,0,101-200 books,15,.19,83.59674,542.13037,554.89508,550.81403,0,0,0,0,0,0
+Male,Once or twice a week,Every day,15.67,Native,-.2588,0,26-100 books,15,-.2656,83.59674,695.92743,702.94879,664.02118,1,1,1,0,0,0
+Male,Once or twice a month,Every day,15.33,Native,-.5348000000000001,0,101-200 books,18,1.2893,83.59674,572.94818,621.75922,611.04639,0,1,1,0,0,0
+Male,Almost every day,Every day,15.67,Native,.7934,1,101-200 books,18,1.4183,93.42721,514.44592,507.70941,471.0733,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.67,Native,.2803,0,26-100 books,13,-.3644,93.42721,631.34253,687.78479,602.15869,1,1,1,0,0,0
+Male,Never or hardly ever,Almost every day,15.58,Native,.9646,0,26-100 books,18,1.5258,93.42721,671.97308,710.26312,663.11627,1,1,1,0,0,0
+Male,Once or twice a week,Almost every day,15.42,Native,-.7244,0,101-200 books,18,1.0595,93.42721,572.7038,607.50763,547.54199,0,1,0,0,0,0
+Male,Once or twice a week,Almost every day,15.58,Native,.6051,0,201-500 books,15,.8068,93.42721,670.98499,688.66467,644.95282,1,1,1,0,0,0
+Male,Once or twice a week,Every day,15.92,Native,.9646,1,201-500 books,15,.5624,114.8743,445.5209,486.5538,511.2634,0,0,0,1,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,1.398,0,201-500 books,10,.1187,119.2103,470.16269,514.61987,518.91779,0,0,0,0,0,0
+Female,Once or twice a month,Once or twice a month,15.58,Native,1.398,0,26-100 books,13,-.4702,119.2103,546.74548,514.74231,554.71252,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.5,Second-Generation,2.5915,0,201-500 books,10,-.3992,119.2103,521.46307,522.09479,579.5509,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,15.58,Native,.1643,0,26-100 books,13,-.3613,114.8743,422.48041,413.73499,466.98749,0,0,0,1,1,0
+Male,Never or hardly ever,Almost every day,15.67,Native,-.5064,0,11-25 books,18,.7691,114.8743,462.85989,435.59479,429.31851,0,0,0,0,1,1
+Male,Every day,Every day,15.67,First-Generation,2.5915,0,11-25 books,15,-.2779,114.8743,402.5798,326.70959,342.7485,0,0,0,1,1,1
+Male,Every day,Every day,15.5,Native,.6241,0,11-25 books,18,.8149,114.8743,542.90253,537.63159,529.5575,0,0,0,0,0,0
+Male,Almost every day,Every day,15.42,Native,.2493,0,26-100 books,15,.0536,114.8743,527.52777,512.5387,523.82538,0,0,0,0,0,0
+Male,Never or hardly ever,Once or twice a week,15.42,Native,.6642,0,101-200 books,10,-.0584,114.8743,450.02029,453.13049,488.46951,0,0,0,0,0,0
+Male,Never or hardly ever,Almost every day,15.67,Second-Generation,.2947,0,26-100 books,18,1.1373,114.8743,544.5473,540.51489,569.59131,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.25,First-Generation,-1.7086,0,11-25 books,13,.1869,119.7135,451.25281,514.44159,544.06799,0,0,0,0,0,0
+Female,Once or twice a week,Once or twice a week,16.17,Second-Generation,.1052,0,11-25 books,15,-.5879,119.7135,552.0957,582.34583,636.21442,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,-.4089,0,101-200 books,13,-.1157,119.7135,525.57788,576.85229,628.06598,0,0,1,0,0,0
+Female,Almost every day,Never or hardly ever,16,Native,1.398,0,26-100 books,13,.4918,119.7135,549.62512,608.25122,616.07758,0,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,.1052,0,More than 500 books,18,1.4677,119.7135,500.9841,591.52991,613.28821,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Second-Generation,-.8144,0,26-100 books,15,-.5255,119.7135,484.13309,454.12509,533.42963,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,2.5915,0,11-25 books,10,-1.0873,119.7135,455.10071,509.51511,590.70398,0,0,0,0,0,0
+Female,Once or twice a month,Once or twice a month,16.17,Native,-1.2097,0,26-100 books,13,-.5158,119.7135,431.50519,511.18539,507.08279,0,0,0,1,0,0
+Male,Once or twice a month,Almost every day,15.92,Native,.331,0,26-100 books,15,.0376,114.8743,517.27551,508.8421,493.0549,0,0,0,0,0,0
+Male,Almost every day,Every day,16.17,Native,.6642,0,0-10 books,15,-.7743,114.8743,596.32813,581.34869,567.53778,0,0,0,0,0,0
+Male,Never or hardly ever,Once or twice a month,16.33,Native,.9646,0,More than 500 books,18,1.6042,114.8743,479.0293,492.43811,521.01709,0,0,0,0,0,0
+Male,Once or twice a month,Almost every day,16.33,Second-Generation,.7934,0,11-25 books,15,.1274,114.8743,567.06421,558.57098,618.78247,0,0,1,0,0,0
+Male,Almost every day,Almost every day,16.33,Native,.4438,0,26-100 books,13,-.7605,114.8743,546.15442,510.25781,548.36047,0,0,0,0,0,0
+Male,Once or twice a month,Never or hardly ever,16.17,Second-Generation,.045,0,More than 500 books,18,1.7642,114.8743,556.41742,619.20227,619.9693,0,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,-.664,0,0-10 books,18,.0986,119.2103,418.9115,424.22229,456.67401,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,1.5043,0,11-25 books,10,-1.6846,119.2103,439.11951,468.7489,483.1702,0,0,0,1,0,0
+Male,Almost every day,Never or hardly ever,15.83,Second-Generation,-.082,0,101-200 books,10,-.5363,114.8743,602.22479,560.44501,592.47522,1,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,.1643,1,201-500 books,18,1.1361,123.6025,426.2832,456.0043,467.52011,0,0,0,1,0,0
+Female,Almost every day,Never or hardly ever,15.5,Native,.9357,0,201-500 books,13,-.429,123.6025,530.41071,583.88708,624.59027,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,-.9199000000000001,0,26-100 books,13,.1129,123.6025,512.44458,516.508,562.10272,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,.9357,0,26-100 books,15,.6502,123.6025,638.23682,654.25043,677.83789,1,1,1,0,0,0
+Female,Almost every day,Once or twice a month,15.5,Native,.9357,0,101-200 books,15,.3764,123.6025,518.75208,584.34668,559.87817,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,-.0621,0,More than 500 books,10,.0504,123.6025,565.0553,650.03491,609.69598,0,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,.9357,0,201-500 books,13,.5586,123.6025,519.9707,566.35211,594.60083,0,0,0,0,0,0
+Male,Once or twice a week,Almost every day,15.5,Native,.6642,0,26-100 books,15,.5759,117.8304,588.8924,616.93701,616.46069,0,1,1,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.42,Native,-1.8419,0,101-200 books,13,.2549,117.8304,636.82758,670.77332,668.42407,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,.3171,0,101-200 books,18,1.7625,117.8304,404.83929,385.5983,449.5769,0,0,0,1,1,1
+Female,Once or twice a month,Never or hardly ever,15.92,Native,-.6607,0,26-100 books,18,1.3637,117.8304,545.87518,525.23322,525.84497,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,.9357,0,101-200 books,15,.5314,117.8304,564.72968,565.10028,543.07343,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,-.7346,0,26-100 books,15,.474,117.8304,571.1004,570.39478,539.33301,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,-.7911,0,More than 500 books,18,1.2366,117.8304,599.10437,607.60168,609.36047,0,1,1,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.17,Native,-.5064,0,More than 500 books,18,1.3211,117.8304,570.29071,622.38092,543.74231,0,1,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,16.17,Native,1.5043,0,More than 500 books,10,-.1254,117.8304,612.83539,650.91791,682.51202,1,1,1,0,0,0
+Male,Once or twice a week,Once or twice a week,16.17,Native,-1.3542,0,101-200 books,13,-.3045,117.8304,483.8483,507.5036,485.9631,0,0,0,0,0,0
+Male,Never or hardly ever,Once or twice a week,15.92,Native,1.398,0,101-200 books,13,.2921,117.8304,619.54993,656.34161,615.6239,1,1,1,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.5,Native,.6846,0,201-500 books,18,.964,123.6025,624.39008,685.7793,736.54688,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,-.3381,0,11-25 books,10,-.4885,123.6025,499.71689,511.54599,522.66333,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,-.0621,0,201-500 books,13,-.0013,123.6025,585.53833,640.8197,651.57422,0,1,1,0,0,0
+Male,Once or twice a week,Almost every day,15.75,Native,-.1314,0,101-200 books,13,-.3212,117.8304,514.11792,544.27588,539.1087,0,0,0,0,0,0
+Male,Never or hardly ever,Almost every day,15.83,Native,.9357,1,101-200 books,15,.6171,117.8304,583.62488,570.77509,580.54773,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.58,Native,.6642,0,201-500 books,13,.1244,117.8304,588.17987,594.9718,596.71582,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a month,15.67,Second-Generation,.9357,1,26-100 books,18,.3744,116.0117,503.65921,477.2092,542.15558,0,0,0,0,0,0
+Male,Almost every day,Every day,15.42,Native,-.0469,0,More than 500 books,18,1.3915,116.0117,640.61102,658.44958,629.08643,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,2.5915,0,101-200 books,15,.3997,104.5231,666.5752,659.21881,589.96417,1,1,0,0,0,0
+Male,Almost every day,Almost every day,15.5,Second-Generation,.3749,0,26-100 books,15,-.3821,116.0117,567.8656,528.28131,489.9032,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,1.5611,0,More than 500 books,18,1.646,104.5231,635.38409,665.55969,616.90887,1,1,1,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.33,Native,.3549,0,201-500 books,13,.183,104.5231,628.59698,669.17859,640.41248,1,1,1,0,0,0
+Male,Every day,Once or twice a month,15.75,Native,.1464,0,101-200 books,18,1.0724,104.5231,636.72791,646.026,593.84662,1,1,0,0,0,0
+Male,Almost every day,Once or twice a week,16.25,Native,.1052,0,More than 500 books,18,1.8099,104.5231,591.1524,655.72998,570.00238,0,1,0,0,0,0
+Male,Never or hardly ever,Almost every day,16.17,Native,.6846,0,26-100 books,18,1.1178,104.5231,605.23138,676.33667,610.36493,1,1,1,0,0,0
+Male,Once or twice a month,Once or twice a week,16.08,Native,1.5611,0,201-500 books,18,1.3683,104.5231,520.28381,509.50201,515.474,0,0,0,0,0,0
+Male,Almost every day,Almost every day,16.25,Native,.1802,0,101-200 books,18,1.5929,104.5231,727.38672,730.7157,698.85651,1,1,1,0,0,0
+Male,Once or twice a month,Never or hardly ever,15.58,Native,-.6837,0,26-100 books,13,-.4009,116.0117,616.41278,568.84558,482.8118,1,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.5,Second-Generation,-.2511,1,26-100 books,18,1.7649,115.3092,494.0282,468.09689,484.59711,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.58,Native,.6642,1,26-100 books,18,1.0734,115.3092,514.49359,490.81149,455.89331,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,-1.5827,0,101-200 books,18,.6919,127.7362,428.05499,422.08649,451.8992,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,-.9626,1,11-25 books,10,-1.407,127.7362,492.0293,521.97839,483.97339,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.5,Second-Generation,.75,0,26-100 books,18,.8834,115.3092,357.78629,299.14099,284.85181,0,0,0,1,1,1
+Female,Once or twice a month,Once or twice a month,16,Second-Generation,-1.4975,0,11-25 books,15,-.6109,115.3092,427.83109,425.05331,457.1532,0,0,0,1,1,0
+Female,Once or twice a week,Never or hardly ever,15.67,Native,-.7527,0,26-100 books,13,-.3386,115.3092,444.83899,453.25931,485.5206,0,0,0,1,0,0
+Female,Once or twice a week,Never or hardly ever,15.67,Second-Generation,-.0621,0,26-100 books,18,1.1794,115.3092,538.67529,555.14948,592.27393,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Second-Generation,.2906,0,11-25 books,13,-1.0851,115.3092,442.16809,424.42151,461.2326,0,0,0,1,1,0
+Male,Once or twice a week,Almost every day,15.75,Native,1.1245,0,26-100 books,13,-.9049,115.3092,426.04691,439.922,458.43051,0,0,0,1,1,0
+Male,Never or hardly ever,Never or hardly ever,16.25,Native,-.0944,0,11-25 books,18,.5471,115.3092,488.3389,480.41049,456.25562,0,0,0,0,0,0
+Male,Almost every day,Almost every day,16.25,Second-Generation,.6642,0,26-100 books,10,-.6651,115.3092,412.37299,404.952,416.02151,0,0,0,1,1,1
+Male,Once or twice a month,Once or twice a week,15.92,Native,-.8729,0,26-100 books,13,.5906,115.3092,462.31271,490.26459,523.65143,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,First-Generation,.9646,1,11-25 books,15,-.3558,127.7362,429.98041,455.18729,492.12009,0,0,0,1,0,0
+Male,Every day,Every day,15.42,Native,-.6372,0,101-200 books,13,-.4446,100.3955,530.10773,527.31677,464.7337,0,0,0,0,0,0
+Female,Almost every day,Almost every day,15.67,First-Generation,1.5043,0,26-100 books,3,-2.2507,107.2271,448.86511,444.6282,451.5188,0,0,0,1,1,0
+Male,Never or hardly ever,Never or hardly ever,16.17,Second-Generation,1.5043,1,11-25 books,10,-1.328,100.3955,484.8511,437.4133,451.16919,0,0,0,0,1,0
+Female,Never or hardly ever,Once or twice a month,15.75,Native,.5073,0,26-100 books,15,.7268,119.959,450.62799,450.34119,473.08209,0,0,0,0,0,0
+Female,Almost every day,Never or hardly ever,15.92,Second-Generation,2.5915,0,26-100 books,18,.1273,119.959,444.9588,398.47229,450.0405,0,0,0,1,1,0
+Male,Every day,Almost every day,16.17,Second-Generation,.5073,0,11-25 books,15,.0805,90.77185,530.47491,558.17249,531.85797,0,0,0,0,0,0
+Male,Almost every day,Every day,15.92,First-Generation,-.3383,0,26-100 books,18,.6805,90.77185,502.32019,428.74359,439.74631,0,0,0,0,1,1
+Male,Never or hardly ever,Almost every day,16.08,Second-Generation,-.5064,0,26-100 books,13,-.8337,90.77185,482.69809,463.39279,493.89331,0,0,0,0,0,0
+Male,Never or hardly ever,Once or twice a month,16.08,Second-Generation,1.0269,0,26-100 books,13,-.5334,90.77185,509.62201,448.16821,477.02969,0,0,0,0,1,0
+Male,Once or twice a week,Once or twice a week,15.67,Native,-1.0023,0,201-500 books,18,.3494,90.77185,554.1911,566.49969,515.71832,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,16,Native,-.4538,0,101-200 books,18,1.2655,90.77185,541.6131,563.08099,563.48291,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,-.6711,0,26-100 books,10,-1.3814,107.2271,556.02191,531.73572,478.86029,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,.514,1,26-100 books,13,-.0426,146.9283,425.96451,467.98349,515.1651,0,0,0,1,0,0
+Male,Once or twice a month,Once or twice a month,15.42,Native,.9958,1,0-10 books,10,-.7584,134.6786,291.16959,263.09341,200.7625,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,.6642,0,11-25 books,10,-.6477000000000001,146.9283,400.34781,391.4545,448.2272,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,.6642,0,26-100 books,13,-.4607,146.9283,473.6275,487.07629,513.12408,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.83,Native,1.5139,0,201-500 books,13,-.5579,134.6786,467.2547,483.15201,479.44629,0,0,0,0,0,0
+Male,Once or twice a month,Never or hardly ever,15.92,Native,-.0153,1,0-10 books,15,.897,134.6786,366.05649,364.46381,315.44659,0,0,0,1,1,1
+Male,Never or hardly ever,Every day,15.83,Native,1.5043,0,More than 500 books,18,1.4101,134.6786,481.41241,504.7818,477.18741,0,0,0,0,0,0
+Male,Never or hardly ever,Every day,15.92,Native,.6642,0,26-100 books,10,-.8151,133.7071,528.8653,505.1713,476.9855,0,0,0,0,0,0
+Male,Once or twice a month,Almost every day,16.33,Native,.0777,0,11-25 books,18,.6096,133.7071,473.6814,477.34021,488.49261,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.92,Native,-1.4115,0,26-100 books,10,-.3883,133.7071,505.6665,491.00461,464.20209,0,0,0,0,0,0
+Male,Once or twice a month,Almost every day,16.17,Native,.412,0,0-10 books,10,-1.2295,133.7071,542.47351,541.60773,521.4726,0,0,0,0,0,0
+Male,Almost every day,Almost every day,16.33,Native,.5943000000000001,0,101-200 books,13,-.1509,133.7071,483.4985,485.0376,488.60641,0,0,0,0,0,0
+Male,Almost every day,Almost every day,16.33,Native,-.2712,0,11-25 books,10,-1.0585,133.7071,408.85431,409.07639,380.1553,0,0,0,1,1,1
+Female,Once or twice a month,Never or hardly ever,15.5,Native,.6642,0,0-10 books,10,-.9583,146.9283,428.85309,445.93909,420.3251,0,0,0,1,1,1
+Male,Almost every day,Once or twice a week,16.25,Native,.1308,0,11-25 books,10,-.9867,134.6786,470.1821,484.487,432.47031,0,0,0,0,0,1
+Male,Once or twice a week,Once or twice a week,15.92,Native,.1985,0,0-10 books,15,-.5464,134.6786,400.60641,387.64441,336.70291,0,0,0,1,1,1
+Male,Never or hardly ever,Never or hardly ever,16.25,First-Generation,-.7346,0,0-10 books,18,.5675,99.41558000000001,373.6434,282.96301,251.74879,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,.6642,0,0-10 books,10,-1.785,115.8795,358.81259,373.42221,419.6398,0,0,0,1,1,1
+Male,Once or twice a week,Once or twice a week,15.67,Native,-.0353,0,26-100 books,18,1.3357,99.41558000000001,452.32559,440.56009,408.40359,0,0,0,0,1,1
+Male,Once or twice a month,Every day,15.67,Native,1.1245,0,11-25 books,10,-.7612,99.41558000000001,395.328,345.4646,360.04459,0,0,0,1,1,1
+Male,Once or twice a month,Once or twice a month,15.33,Native,2.5915,0,0-10 books,15,.3422,99.41558000000001,460.6413,421.1358,349.06421,0,0,0,0,1,1
+Male,Once or twice a week,Once or twice a week,15.42,Native,-3.1297,0,0-10 books,10,-1.218,99.41558000000001,468.3031,477.47369,455.5834,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a month,15.5,Native,2.5915,0,11-25 books,10,-.9212,99.41558000000001,447.42831,398.29391,460.9783,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,.514,0,101-200 books,10,-1.0967,106.2982,423.5928,414.9682,498.11371,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,-1.8419,0,26-100 books,10,-.7325,106.2982,505.34,496.55341,542.3692,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,.6642,0,26-100 books,13,-.261,106.2982,358.65909,369.41321,430.63831,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.67,Second-Generation,-.0621,0,101-200 books,15,.1071,106.2982,405.97571,379.40649,432.45761,0,0,0,1,1,1
+Male,Once or twice a week,Once or twice a week,16,Native,-1.3121,0,26-100 books,15,.2278,103.2753,525.0694,451.3472,436.36301,0,0,0,0,0,1
+Male,Never or hardly ever,Never or hardly ever,16.17,Native,-.2485,0,0-10 books,15,.1829,103.2753,435.24649,390.74341,287.271,0,0,0,1,1,1
+Male,Once or twice a week,Almost every day,16.25,Native,2.5915,0,101-200 books,15,.6607,103.2753,505.8718,420.1843,496.4599,0,0,0,0,1,0
+Male,Every day,Every day,16.25,Native,.0048,0,26-100 books,18,1.1058,103.2753,516.49872,529.31079,487.9028,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.83,Native,.2947,0,101-200 books,15,-.2502,103.2753,551.66559,597.64917,523.73859,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,16.08,Native,-1.2551,0,0-10 books,13,-.3517,99.41558000000001,368.43359,323.4603,314.2482,0,0,0,1,1,1
+Male,Every day,Every day,15.42,Native,2.5915,0,26-100 books,15,-.117,99.41558000000001,577.9585,539.71167,496.92609,0,0,0,0,0,0
+Male,Every day,Every day,15.67,Native,.7934,0,26-100 books,18,.151,99.41558000000001,472.97809,445.36819,392.9826,0,0,0,0,1,1
+Male,Once or twice a week,Every day,15.67,Native,2.5915,0,201-500 books,18,.9449,99.41558000000001,504.72751,519.30011,513.21899,0,0,0,0,0,0
+Female,Almost every day,Never or hardly ever,15.42,Native,2.5915,0,201-500 books,15,.0369,120.4724,409.14719,398.60541,456.46869,0,0,0,1,1,0
+Female,Once or twice a month,Once or twice a month,16.08,Native,-.7817,0,11-25 books,10,-.6719000000000001,121.0009,496.24179,513.73151,532.78387,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a month,16.17,Native,.6642,0,101-200 books,10,-.4697,116.1167,515.18048,500.62,521.31653,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,16.33,Native,-.7104,0,101-200 books,18,1.3267,116.1167,449.10541,402.9939,445.48239,0,0,0,1,1,1
+Male,Once or twice a month,Almost every day,16.25,Native,-.4725,0,201-500 books,15,.297,116.1167,570.71613,590.71613,572.22443,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,-.3259,0,201-500 books,10,-.6502,120.4724,557.11292,585.185,631.8717,0,0,1,0,0,0
+Male,Once or twice a month,Once or twice a week,15.67,Native,.7934,0,11-25 books,15,-.3311,116.1167,443.00131,425.4649,434.09399,0,0,0,1,1,1
+Male,Never or hardly ever,Once or twice a week,15.58,Native,-1.2158,0,26-100 books,13,-.2851,116.1167,425.1015,448.2869,449.20221,0,0,0,1,1,1
+Male,Once or twice a week,Almost every day,15.58,Native,.0248,0,0-10 books,10,-.6171,116.1167,547.34778,559.8158,539.76532,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.9357,0,101-200 books,15,-.0348,121.35,582.8125,610.27148,655.98767,0,1,1,0,0,0
+Female,Once or twice a month,Once or twice a month,15.5,Native,.2947,0,201-500 books,18,2.0725,121.35,483.6835,512.25702,519.71429,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.67,Native,.0776,1,201-500 books,18,1.016,121.35,573.07111,595.8103,606.46802,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Second-Generation,-1.3781,0,201-500 books,18,.8312,121.35,604.45941,578.30103,586.90039,1,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,16.33,Native,1.5043,0,More than 500 books,18,1.5741,121.35,609.80798,587.68451,604.97058,1,0,1,0,0,0
+Male,Once or twice a week,Once or twice a week,15.42,Native,.2947,0,101-200 books,13,.5148,121.35,549.05988,526.33191,521.00659,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a month,15.5,Native,.2947,0,More than 500 books,18,1.9257,121.35,609.85931,610.1214,634.26929,1,1,1,0,0,0
+Male,Every day,Once or twice a week,16.33,Native,-.8828,0,More than 500 books,18,1.4087,121.35,686.80127,715.95032,666.4364,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,.9357,0,26-100 books,15,.2891,121.35,566.99518,601.67853,621.4549,0,1,1,0,0,0
+Female,Once or twice a month,Once or twice a month,15.83,Native,.6897,0,201-500 books,18,1.4056,121.35,646.33582,663.88342,647.50598,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,-.082,0,201-500 books,18,1.0902,121.35,592.72998,554.63062,590.98541,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16,Native,.6642,0,201-500 books,18,1.4323,121.35,536.17639,529.62842,563.59949,0,0,0,0,0,0
+Male,Almost every day,Once or twice a month,15.42,Native,2.5915,0,More than 500 books,18,2.2719,121.35,531.5246,479.1012,487.0336,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,16.17,Native,2.5915,0,More than 500 books,18,1.088,121.35,663.9353,675.86511,627.04413,1,1,1,0,0,0
+Male,Once or twice a week,Almost every day,16.33,Native,1.398,0,201-500 books,18,1.058,121.35,650.18469,610.85553,578.63843,1,1,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,16,Native,1.5611,0,More than 500 books,15,.3359,121.35,556.19171,558.08783,545.1001,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.67,Native,.9357,0,More than 500 books,18,1.3933,121.35,645.85217,672.09052,660.85651,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,-.0153,0,201-500 books,15,.7286,121.35,599.38629,590.45782,584.17078,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.33,Native,1.5043,1,More than 500 books,18,1.7692,121.35,541.2356,544.6181,576.16461,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.33,Native,-.3458,0,101-200 books,18,.7982,121.35,622.39783,661.72937,667.15491,1,1,1,0,0,0
+Male,Almost every day,Every day,15.42,First-Generation,.6642,0,26-100 books,10,-1.5009,121.35,606.6391,606.8161,546.74689,1,1,0,0,0,0
+Female,Once or twice a month,Once or twice a month,15.67,Native,-.7346,1,101-200 books,18,.0021,142.4706,418.95029,386.703,364.58459,0,0,0,1,1,1
+Female,Once or twice a week,Never or hardly ever,15.58,Native,-.8828,0,0-10 books,10,-.5633,142.4706,424.0022,426.21481,436.64951,0,0,0,1,1,1
+Female,Every day,Every day,16,Native,1.0269,0,26-100 books,18,1.1578,151.9585,471.4024,442.7659,456.72171,0,0,0,0,1,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,-1.0399,0,201-500 books,13,.3858,151.9585,476.1951,518.2879,511.23001,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.42,Native,.1052,0,More than 500 books,18,1.3409,172.6162,605.12469,629.88318,621.75641,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,-.0626,0,26-100 books,13,-.7508,140.8891,397.02481,403.00021,401.77969,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,.9646,0,0-10 books,13,-.5174,140.8891,457.18839,432.43011,485.10379,0,0,0,0,1,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,2.5915,0,101-200 books,10,-1.2557,140.8891,463.2374,482.19312,502.9682,0,0,0,0,0,0
+Male,Never or hardly ever,Once or twice a week,15.83,Native,-.7673,1,26-100 books,18,.6685,131.9128,496.20239,511.35001,534.6106,0,0,0,0,0,0
+Male,Every day,Every day,15.75,Native,2.5915,0,More than 500 books,18,1.6282,131.9128,507.3288,554.92828,493.29681,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a week,15.58,Native,.0248,0,26-100 books,18,-.0802,131.9128,438.3223,392.00531,391.27209,0,0,0,1,1,1
+Male,Every day,Every day,16.08,Native,.3076,0,101-200 books,18,1.072,131.9128,593.05652,609.0423,546.38568,0,1,0,0,0,0
+Male,Once or twice a month,Every day,16.33,First-Generation,-.119,0,0-10 books,15,-.4603,131.9128,548.47559,527.43799,503.3407,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.67,Native,2.5915,1,26-100 books,15,.6533,131.9128,488.27161,507.9845,534.37372,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,.7554999999999999,0,201-500 books,10,-.7561,119.268,547.25293,566.15582,586.03119,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,-.3381,0,26-100 books,10,-1.2178,119.268,592.99548,559.55762,603.49823,0,0,1,0,0,0
+Female,Almost every day,Every day,16.33,Native,.6846,0,More than 500 books,15,.4926,119.268,443.06711,523.92297,572.98572,0,0,0,1,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,-.8844,0,201-500 books,18,1.2711,119.268,471.23581,514.93182,549.9787,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.08,Native,.6642,0,101-200 books,13,-.0721,119.268,466.1174,493.35419,512.96381,0,0,0,0,0,0
+Male,Almost every day,Once or twice a month,16.08,Native,-.234,0,101-200 books,15,.7335,119.268,531.53778,592.18298,537.7843,0,0,0,0,0,0
+Male,Almost every day,Almost every day,16.08,Native,-1.1026,0,26-100 books,13,-.6903,119.268,540.95959,565.76727,497.43759,0,0,0,0,0,0
+Male,Once or twice a week,Almost every day,15.92,Second-Generation,.3171,0,101-200 books,10,-.671,119.268,622.95697,594.19202,552.82422,1,0,0,0,0,0
+Male,Never or hardly ever,Every day,16,Native,-.259,0,26-100 books,13,-.3483,119.268,516.2738,506.01849,503.1066,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,16.25,Native,.042,0,26-100 books,10,-.2529,119.268,507.79691,526.07111,601.82458,0,0,1,0,0,0
+Male,Every day,Every day,16.33,Second-Generation,-.378,0,0-10 books,13,-.2501,119.268,419.62939,426.70911,446.2919,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.67,First-Generation,.6846,0,26-100 books,18,.6352,140.8891,455.69199,377.9845,448.31711,0,0,0,0,1,1
+Female,Once or twice a week,Once or twice a week,16.25,Native,-.627,1,0-10 books,13,-.2257,140.8891,352.89569,347.5524,369.86871,0,0,0,1,1,1
+Male,Every day,Every day,15.75,Native,-1.0795,0,26-100 books,13,-.7828000000000001,131.9128,338.27789,323.80261,344.71619,0,0,0,1,1,1
+Male,Once or twice a week,Almost every day,15.58,Native,-.505,0,101-200 books,18,1.2003,82.95076,454.16071,481.642,502.37009,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,2.5915,1,0-10 books,18,.3132,91.37059000000001,477.10519,541.67798,518.05249,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.42,Native,-.4725,0,26-100 books,10,-.7067,82.95076,539.70258,497.98581,505.06421,0,0,0,0,0,0
+Male,Once or twice a week,Every day,15.83,Native,.1771,0,101-200 books,18,1.0595,82.95076,526.44299,568.21637,580.8598,0,0,0,0,0,0
+Male,Almost every day,Once or twice a week,15.58,Native,-.3381,0,201-500 books,18,1.1488,82.95076,526.6626,458.55029,415.04691,0,0,0,0,0,1
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,.9357,0,201-500 books,18,1.424,95.72023,492.50021,523.2594,526.93158,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,1.398,0,201-500 books,18,1.1864,95.72023,568.75989,610.23779,614.17041,0,1,1,0,0,0
+Male,Every day,Every day,16,Native,.6642,0,More than 500 books,10,-.7215,87.7471,667.0639,679.96631,580.5874,1,1,0,0,0,0
+Male,Never or hardly ever,Once or twice a week,15.67,Native,-.6837,0,26-100 books,18,.0632,87.7471,571.09277,572.20599,558.8175,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,16,Native,.6642,0,101-200 books,10,.4034,87.7471,520.47168,513.7337,553.10101,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a month,16.08,Second-Generation,-.4725,0,26-100 books,10,-1.0131,87.7471,544.30402,552.86627,543.63611,0,0,0,0,0,0
+Male,Never or hardly ever,Once or twice a week,15.83,Native,.9357,0,11-25 books,15,.425,87.7471,555.46252,571.00513,539.25281,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,16.25,Native,.6642,0,101-200 books,15,.8006,87.7471,507.36209,517.35889,537.55573,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,16.25,Native,2.5915,0,26-100 books,18,1.5974,87.7471,555.64893,552.28058,546.2998,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,.1985,0,101-200 books,15,-.3385,91.37059000000001,415.3045,435.2963,455.9158,0,0,0,1,1,0
+Female,Almost every day,Never or hardly ever,15.83,Native,.1258,0,0-10 books,13,-.9526,91.37059000000001,490.95349,506.25381,534.9458,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.5,Native,-1.5982,0,More than 500 books,15,-.0305,82.95076,447.77921,438.84589,412.7554,0,0,0,1,1,1
+Male,Once or twice a week,Once or twice a week,15.42,Native,.9357,0,101-200 books,13,.2715,89.13625999999999,543.33301,573.43469,575.1441,0,0,0,0,0,0
+Male,Almost every day,Every day,15.67,Native,2.5915,0,101-200 books,18,1.3313,89.13625999999999,591.12903,585.64429,609.41669,0,0,1,0,0,0
+Male,Once or twice a month,Almost every day,15.5,Native,2.5915,0,101-200 books,18,1.755,89.13625999999999,527.63422,560.68579,592.16498,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.33,Native,1.398,0,101-200 books,13,.1115,89.13625999999999,577.3844,584.59979,575.9574,0,0,0,0,0,0
+Male,Once or twice a month,Almost every day,15.58,Native,.9646,0,26-100 books,13,.0545,89.13625999999999,552.88342,578.44818,540.94049,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,.2947,0,101-200 books,18,1.7111,91.91670999999999,561.30939,561.99542,602.89801,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,.1258,0,More than 500 books,18,.3283,91.91670999999999,484.90851,498.47421,541.17749,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,2.5915,0,More than 500 books,18,1.5692,91.91670999999999,607.79938,622.51068,669.40289,1,1,1,0,0,0
+Female,Once or twice a week,Never or hardly ever,16.17,Native,1.398,0,101-200 books,15,.5089,91.91670999999999,656.35107,710.37469,691.81232,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,.9357,0,26-100 books,18,.1217,91.91670999999999,475.50201,481.59891,504.4465,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,.3549,0,101-200 books,10,-.556,91.91670999999999,466.45889,483.04599,514.7334,0,0,0,0,0,0
+Male,Once or twice a week,Almost every day,16.17,Native,2.5915,0,26-100 books,10,-.8389,82.99093999999999,605.06818,562.2674,554.97357,1,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,16.25,Native,.3171,0,11-25 books,15,-.5875,82.99093999999999,675.47382,647.44708,608.198,1,1,1,0,0,0
+Male,Almost every day,Almost every day,15.83,Second-Generation,-.2913,0,11-25 books,13,-.2476,82.99093999999999,517.8902,575.23712,614.11621,0,0,1,0,0,0
+Male,Almost every day,Almost every day,15.5,Native,-1.8419,0,201-500 books,18,1.3759,82.99093999999999,582.13647,612.4408,626.71838,0,1,1,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.83,Native,.7701,0,201-500 books,18,1.7456,82.99093999999999,615.5769,608.3844,619.55322,1,1,1,0,0,0
+Male,Almost every day,Almost every day,15.83,Native,2.5915,0,0-10 books,18,1.1198,82.99093999999999,553.7865,592.06403,585.60303,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.75,Native,-1.8419,0,26-100 books,13,.2873,82.99093999999999,652.31561,686.07349,597.27338,1,1,0,0,0,0
+Male,Never or hardly ever,Every day,16.17,Native,.6642,0,11-25 books,13,.3821,82.99093999999999,567.94098,599.33173,614.82538,0,0,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,.1157,0,101-200 books,13,.4785,90.88768,489.7048,478.95389,548.21649,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.33,Native,.75,0,26-100 books,15,.3601,89.13625999999999,508.28799,533.21942,520.0473,0,0,0,0,0,0
+Male,Never or hardly ever,Every day,15.42,Native,.1802,0,201-500 books,18,.6745,89.13625999999999,563.7926,588.44342,555.57111,0,0,0,0,0,0
+Male,Never or hardly ever,Every day,15.42,Native,.6642,1,26-100 books,15,-.2229,108.9748,436.52649,452.13419,427.83469,0,0,0,1,0,1
+Male,Never or hardly ever,Every day,15.42,Second-Generation,.7348,1,11-25 books,18,-.0962,108.9748,473.81879,414.7356,438.93811,0,0,0,0,1,1
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,1.3232,0,101-200 books,13,-.0814,108.9748,460.67801,444.46381,483.58871,0,0,0,0,1,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,1.5043,0,201-500 books,18,1.2635,108.9748,518.97083,505.9205,511.65979,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,.9646,0,201-500 books,15,-.1321,108.9748,531.03247,531.82751,516.16418,0,0,0,0,0,0
+Female,Never or hardly ever,Almost every day,15.75,Native,-.3381,0,26-100 books,13,-.1355,108.9748,572.80762,557.90863,558.58411,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,15.58,Native,.3171,0,0-10 books,10,-.8783,121.8337,462.51971,437.37241,409.14081,0,0,0,0,1,1
+Female,Once or twice a month,Never or hardly ever,15.83,Native,-.8572,1,101-200 books,18,1.4189,108.9748,462.0397,419.93451,430.6828,0,0,0,0,1,1
+Male,Every day,Every day,16.08,Native,-.9414,1,26-100 books,18,1.0489,108.9748,574.53119,577.95398,576.36108,0,0,0,0,0,0
+Male,Never or hardly ever,Once or twice a week,16.17,Native,-.66,1,More than 500 books,18,1.4436,108.9748,582.66803,575.09271,549.19263,0,0,0,0,0,0
+Male,Once or twice a week,Almost every day,15.92,Native,-.0914,1,26-100 books,13,.0487,108.9748,566.7785,575.13867,605.96381,0,0,1,0,0,0
+Male,Once or twice a week,Once or twice a month,15.67,Native,-.6981000000000001,0,101-200 books,18,.7652,108.9748,545.46881,597.01062,551.90759,0,0,0,0,0,0
+Male,Once or twice a week,Almost every day,15.33,Second-Generation,2.5915,1,11-25 books,10,-1.6746,117.6064,417.048,442.0296,450.3743,0,0,0,1,1,0
+Female,Once or twice a week,Almost every day,15.92,First-Generation,-.3381,0,0-10 books,3,-2.2291,130.7697,364.5166,451.04709,485.0838,0,0,0,1,0,0
+Male,Once or twice a week,Every day,15.5,Native,.1258,0,0-10 books,4,-2.1837,117.6064,380.51489,317.97,352.2836,0,0,0,1,1,1
+Male,Every day,Every day,15.58,Native,-.0545,1,11-25 books,10,-.4973,117.6064,408.3642,389.5799,400.26611,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,16.25,Second-Generation,-.2015,1,0-10 books,3,-2.0936,130.7697,396.2771,382.1286,357.5072,0,0,0,1,1,1
+Male,Never or hardly ever,Never or hardly ever,15.33,First-Generation,.3171,0,0-10 books,10,-1.3088,117.6064,467.39099,486.00821,437.2619,0,0,0,0,0,1
+Male,Never or hardly ever,Every day,16.17,First-Generation,.3171,0,0-10 books,10,-1.5767,117.6064,415.9487,375.71741,354.48541,0,0,0,1,1,1
+Female,Once or twice a month,Once or twice a month,15.92,Second-Generation,-.0153,0,26-100 books,10,-1.1272,108.9748,484.9548,488.2265,538.55768,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Second-Generation,-.1544,0,201-500 books,18,1.308,108.9748,512.81622,518.98718,569.01892,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,.9646,0,26-100 books,10,-1.2886,108.9748,469.181,467.43369,533.91022,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,16.25,Second-Generation,-1.7548,0,26-100 books,18,1.4168,113.2056,525.51062,499.6528,471.9346,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,16.17,Second-Generation,.6642,0,11-25 books,10,-1.1203,113.2056,428.12451,381.10019,433.07999,0,0,0,1,1,1
+Male,Never or hardly ever,Every day,15.5,First-Generation,1.5611,0,26-100 books,18,1.1245,117.6064,424.0607,420.31049,423.93359,0,0,0,1,1,1
+Male,Almost every day,Almost every day,15.83,Native,-.8003,1,201-500 books,18,.2215,117.6064,510.55719,566.75482,516.74591,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.0101,0,101-200 books,15,.1665,118.6266,414.67551,394.478,446.0871,0,0,0,1,1,1
+Female,Once or twice a week,Never or hardly ever,15.58,Native,.5073,0,101-200 books,10,-1.0307,118.6266,562.94592,565.28461,552.36328,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,.2947,0,11-25 books,10,-2.0018,118.6266,456.80191,469.34631,455.246,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,-.5776,0,26-100 books,10,-1.3089,118.6266,548.37,525.07898,579.17023,0,0,0,0,0,0
+Male,Every day,Every day,16.33,Native,.0078,1,26-100 books,10,-.3296,116.3406,553.0921,580.48779,569.2251,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,16,Native,.6642,1,26-100 books,13,-.2067,116.3406,578.05048,558.82672,528.95398,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.75,Native,.2774,0,11-25 books,10,-.7483,116.3406,602.83588,604.22272,543.1759,1,1,0,0,0,0
+Male,Every day,Every day,15.58,Native,2.5915,0,101-200 books,18,1.816,116.3406,499.8829,519.43188,489.2767,0,0,0,0,0,0
+Male,Every day,Every day,16.08,Native,-2.032,0,26-100 books,18,1.5128,108.3198,445.19131,446.4111,444.2923,0,0,0,1,1,1
+Male,Never or hardly ever,Never or hardly ever,15.92,Native,.2947,0,11-25 books,10,-.8397,108.3198,493.4855,445.0704,437.61499,0,0,0,0,1,1
+Male,Almost every day,Every day,16.25,Native,-.707,0,11-25 books,13,.1102,108.3198,536.22461,503.9296,498.09961,0,0,0,0,0,0
+Female,Once or twice a week,Once or twice a week,15.75,Native,-1.3612,0,101-200 books,15,-.3665,118.6266,442.73679,486.80161,456.0025,0,0,0,1,0,0
+Male,Once or twice a month,Once or twice a month,15.67,First-Generation,.3171,0,0-10 books,15,-.3174,116.3406,545.7749,486.13321,477.1774,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.08,Native,-.1515,0,26-100 books,10,-1.1823,82.22727999999999,367.86801,347.82959,425.67551,0,0,0,1,1,1
+Female,Almost every day,Never or hardly ever,15.5,Second-Generation,2.5915,0,11-25 books,10,-.7252,82.22727999999999,395.27591,318.5369,435.37711,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,-.5064,0,0-10 books,15,-.5894,82.22727999999999,420.6825,398.91791,461.6134,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,.9357,0,11-25 books,15,-.4685,82.22727999999999,383.76559,396.3403,416.2645,0,0,0,1,1,1
+Female,Once or twice a month,Never or hardly ever,15.67,Second-Generation,-.7985,0,26-100 books,15,.2747,82.22727999999999,513.72131,498.64429,564.2085,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.6642,0,26-100 books,10,-1.0909,82.22727999999999,486.46271,483.2897,503.1738,0,0,0,0,0,0
+Male,Every day,Almost every day,15.5,Native,-1.2158,0,201-500 books,10,-.6523,90.06887999999999,552.47467,548.8241,503.7392,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.75,Native,-.5776,0,26-100 books,13,.4269,90.06887999999999,423.53351,420.25021,398.59381,0,0,0,1,1,1
+Male,Once or twice a month,Almost every day,15.67,Native,.3171,0,26-100 books,13,-.7054,90.06887999999999,451.98669,453.56131,449.09329,0,0,0,0,0,1
+Male,Every day,Every day,15.5,Native,-1.1006,0,101-200 books,13,-.0253,90.06887999999999,529.79993,505.7103,510.98221,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,15.58,Native,.6642,0,201-500 books,15,.9395,90.06887999999999,525.88623,502.6604,466.36911,0,0,0,0,0,0
+Male,Almost every day,Every day,15.42,Native,.6124000000000001,0,26-100 books,10,-1.1151,90.06887999999999,545.49323,495.50409,509.383,0,0,0,0,0,0
+Male,Almost every day,Every day,15.92,Native,-1.2627,0,101-200 books,15,-.0263,90.06887999999999,521.7594,521.94562,446.84219,0,0,0,0,0,1
+Male,Every day,Almost every day,16.17,Native,.6642,1,201-500 books,15,-.0834,90.06887999999999,475.95651,466.7619,449.90839,0,0,0,0,0,1
+Female,Once or twice a month,Never or hardly ever,15.67,Native,-.358,0,101-200 books,10,-.3239,82.22727999999999,336.93469,301.0101,408.99231,0,0,0,1,1,1
+Male,Once or twice a month,Almost every day,16.08,Native,.6642,0,26-100 books,13,-.703,90.06887999999999,433.07571,424.20071,402.55359,0,0,0,1,1,1
+Male,Almost every day,Almost every day,15.83,Native,-1.3431,0,26-100 books,10,-.9083,90.06887999999999,561.74689,587.4433,584.42188,0,0,0,0,0,0
+Male,Never or hardly ever,Every day,16,Native,-.4725,0,11-25 books,18,.0297,90.06887999999999,413.15131,391.22189,398.64551,0,0,0,1,1,1
+Male,Once or twice a week,Almost every day,15.58,Native,.1643,0,0-10 books,18,.8242,90.06887999999999,419.0827,396.7699,356.63589,0,0,0,1,1,1
+Male,Once or twice a week,Once or twice a week,15.83,Native,.0248,0,26-100 books,13,-.1948,90.06887999999999,461.6424,443.64069,393.2496,0,0,0,0,1,1
+Male,Every day,Every day,15.58,Native,.6642,0,11-25 books,18,.083,90.06887999999999,490.40839,545.10309,492.14841,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,2.5915,0,0-10 books,13,.5094,107.315,512.4566,543.08759,565.34448,0,0,0,0,0,0
+Female,Once or twice a week,Once or twice a week,15.33,Second-Generation,-1.2473,0,11-25 books,15,.1907,107.315,532.2146,544.15979,545.0351,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a month,15.5,Native,.9357,0,0-10 books,10,-.8738,118.8242,525.71179,484.4566,476.69269,0,0,0,0,0,0
+Male,Never or hardly ever,Almost every day,15.33,Native,.9646,0,26-100 books,15,.2961,118.8242,568.56891,554.125,571.58319,0,0,0,0,0,0
+Male,Once or twice a month,Once or twice a month,15.92,Native,1.0269,0,201-500 books,15,-.2024,118.8242,530.51147,569.20459,566.90167,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.25,Native,.236,0,26-100 books,18,.9982,107.315,627.25562,606.48907,632.87158,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16,Second-Generation,-.3381,0,26-100 books,18,-.0345,107.315,503.38171,500.6185,556.6203,0,0,0,0,0,0
+Female,Almost every day,Once or twice a month,15.42,Native,.9357,0,101-200 books,18,1.7253,107.315,642.0741,678.2312,701.3783,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Second-Generation,.3171,0,26-100 books,15,-.506,107.315,514.42792,504.48019,553.6532,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.6642,0,101-200 books,18,1.0616,107.315,668.98059,630.67517,604.7345,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,-.3381,0,101-200 books,18,1.7106,107.315,591.13287,585.87061,608.97699,0,0,1,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.08,Second-Generation,.0248,0,11-25 books,13,.4345,107.315,554.25262,516.27972,576.72632,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,.6051,0,201-500 books,18,1.4505,107.315,622.86133,594.211,636.4906,1,0,1,0,0,0
+Male,Once or twice a week,Every day,15.33,Native,-.1144,0,201-500 books,18,1.1741,116.3784,597.5968,596.66467,573.72748,0,0,0,0,0,0
+Male,Almost every day,Every day,15.75,Native,.6241,0,201-500 books,18,1.4407,116.3784,654.43658,647.75751,599.48962,1,1,0,0,0,0
+Male,Once or twice a week,Almost every day,15.58,Native,.6642,0,201-500 books,13,-.2692,116.3784,669.18561,683.90973,683.95752,1,1,1,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.33,Native,.2661,0,101-200 books,18,1.4405,118.8242,640.82031,617.56549,632.09552,1,1,1,0,0,0
+Female,Every day,Every day,15.67,Second-Generation,-.0275,0,0-10 books,13,-.7223000000000001,179.724,349.42749,388.4873,429.6644,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.4906,0,101-200 books,15,.2127,179.724,374.10889,443.0538,506.89279,0,0,0,1,1,0
+Male,Once or twice a week,Once or twice a week,15.92,Native,1.398,0,11-25 books,10,.2875,187.3921,457.99319,482.82019,478.03241,0,0,0,0,0,0
+Male,Once or twice a week,Every day,15.58,Native,-.8307,0,26-100 books,18,1.2884,187.3921,549.49298,590.18982,532.95343,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Second-Generation,.2628,0,11-25 books,10,-1.2265,165.1525,388.16599,413.10309,484.3522,0,0,0,1,1,0
+Female,Once or twice a week,Once or twice a week,15.83,Native,1.5043,0,0-10 books,15,-.3649,165.1525,414.9267,471.09149,524.10638,0,0,0,1,0,0
+Female,Once or twice a week,Never or hardly ever,15.58,Native,.6642,0,11-25 books,10,-.8827,165.1525,428.8183,419.12311,472.315,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,.0825,0,26-100 books,18,.3884,165.1525,359.67661,420.6904,467.12399,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,16,Native,.9357,0,26-100 books,13,-.7513,165.1525,369.1232,362.4736,429.86481,0,0,0,1,1,1
+Male,Almost every day,Every day,16.25,Second-Generation,.331,0,101-200 books,18,1.2178,185.9202,431.09161,458.05081,414.5293,0,0,0,1,0,1
+Female,Never or hardly ever,Never or hardly ever,16.17,Native,.1643,0,11-25 books,15,-.2194,144.0346,439.92599,472.25089,507.57849,0,0,0,1,0,0
+Male,Never or hardly ever,Once or twice a month,16.08,Native,.1021,0,26-100 books,18,-.1652,144.0346,521.43768,521.10327,487.92731,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.33,Native,-.9585,0,0-10 books,10,-1.3889,148.8439,387.00171,411.00751,466.7605,0,0,0,1,1,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,-.6615,0,201-500 books,15,.2135,148.8439,471.73441,514.94312,497.85989,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.6642,0,11-25 books,10,-1.4237,148.8439,319.5549,300.9624,381.7153,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,-.4089,0,0-10 books,18,-.0445,148.8439,441.66971,482.82629,511.9035,0,0,0,1,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,1.398,0,26-100 books,10,-.6734,148.8439,479.3876,515.87677,502.60629,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.5,Native,.4033,0,26-100 books,18,1.4063,148.8439,460.7908,467.48099,497.745,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.67,Native,1.0269,0,201-500 books,18,2.0806,143.2241,605.69659,601.96692,565.46442,1,1,0,0,0,0
+Male,Once or twice a month,Never or hardly ever,16.25,Native,1.5043,0,26-100 books,13,-.7146,143.2241,518.03333,527.92432,489.7149,0,0,0,0,0,0
+Male,Almost every day,Every day,15.83,Native,-.66,1,101-200 books,10,-.8532,143.2241,565.03497,599.909,562.63422,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.75,Native,-.5917,0,201-500 books,18,1.1992,111.7463,549.3299,595.55469,559.00531,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.92,Native,.9357,1,26-100 books,10,-.7449,111.7463,502.94861,529.52429,503.5723,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,2.5915,0,201-500 books,15,.6417,111.7463,653.61578,694.22412,682.29779,1,1,1,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,-.9641999999999999,0,101-200 books,15,.0946,111.7463,446.82339,392.81491,396.09479,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,-1.0834,0,201-500 books,18,1.0213,111.7463,496.5347,488.99271,494.36389,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,-.9585,0,26-100 books,15,.119,111.7463,546.60858,580.39502,574.13458,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.67,Native,-1.8018,0,201-500 books,18,1.0898,111.7463,525.87421,520.38623,560.22461,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.83,Native,.9357,0,201-500 books,18,1.6824,116.5141,613.36182,636.45459,613.77631,1,1,1,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.5,Native,.3812,0,201-500 books,18,1.4443,116.5141,582.55341,604.78711,572.69891,0,1,0,0,0,0
+Male,Never or hardly ever,Almost every day,15.42,Native,.7934,0,101-200 books,18,.5596,116.5141,584.90118,615.04541,547.19159,0,1,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.83,Native,.3171,0,101-200 books,15,.511,116.5141,549.01471,545.59869,540.10022,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.42,Native,.9646,0,101-200 books,13,.998,116.5141,598.50739,604.71082,596.5481,0,1,0,0,0,0
+Male,Once or twice a month,Once or twice a month,15.5,Native,.7934,0,201-500 books,18,1.4866,116.5141,567.58771,603.82831,575.20349,0,1,0,0,0,0
+Male,Once or twice a month,Once or twice a week,15.67,Native,-.2933,0,26-100 books,18,.5491,116.5141,478.59909,521.07581,489.68329,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16,Second-Generation,-.5064,0,26-100 books,18,.6363,102.6863,504.0928,527.95001,577.81781,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16,Second-Generation,1.5043,0,26-100 books,10,-.7441,102.6863,474.90469,493.41031,517.88501,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,15.83,Native,.0674,0,101-200 books,18,1.0425,115.5989,673.13171,736.02338,682.96942,1,1,1,0,0,0
+Male,Every day,Every day,16.08,Native,2.2154,0,201-500 books,18,1.5629,115.5989,470.9425,448.06879,451.86938,0,0,0,0,1,0
+Male,Almost every day,Never or hardly ever,16,Native,.6642,0,More than 500 books,18,1.3526,115.5989,500.94171,496.45029,518.39618,0,0,0,0,0,0
+Male,Once or twice a month,Every day,15.58,Native,-.8844,0,201-500 books,18,1.4448,115.5989,571.37189,563.78369,575.7655,0,0,0,0,0,0
+Male,Every day,Every day,15.92,Native,1.5043,0,101-200 books,18,1.4478,115.5989,584.88892,620.83411,587.66663,0,1,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,1.1245,0,201-500 books,18,1.5248,111.7463,454.2345,488.56461,538.40887,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.5,Native,-.7862,1,201-500 books,18,1.6682,111.7463,536.72528,534.45288,590.60931,0,0,0,0,0,0
+Male,Every day,Every day,15.5,Native,1.398,0,More than 500 books,15,.8093,116.5141,620.88739,638.47369,578.08313,1,1,0,0,0,0
+Male,Never or hardly ever,Every day,15.42,Native,.1464,1,26-100 books,10,-1.1741,89.66279,407.59741,431.30911,480.3909,0,0,0,1,1,0
+Male,Once or twice a month,Once or twice a month,15.67,Native,.6642,1,0-10 books,18,.9165,89.66279,429.78491,439.16571,451.6897,0,0,0,1,1,0
+Female,Once or twice a week,Once or twice a week,15.5,Native,-.3381,1,101-200 books,15,.8796,89.66279,455.61871,485.13651,447.90771,0,0,0,0,0,1
+Female,Never or hardly ever,Almost every day,16.33,Second-Generation,.1052,1,11-25 books,13,-.7494,89.66279,434.42661,433.8392,481.75201,0,0,0,1,1,0
+Female,Once or twice a week,Once or twice a week,16.25,Native,.6642,1,26-100 books,13,-.3402,89.66279,463.84351,502.67831,510.5361,0,0,0,0,0,0
+Male,Almost every day,Every day,16.25,Second-Generation,2.5915,1,26-100 books,10,-1.2341,89.66279,541.65662,560.55139,553.41083,0,0,0,0,0,0
+Male,Almost every day,Once or twice a month,16.33,Native,-1.2743,0,201-500 books,15,-.2565,89.66279,488.5549,531.04938,474.3183,0,0,0,0,0,0
+Male,Once or twice a week,Once or twice a week,16.17,Native,.0248,0,26-100 books,10,-.2758,89.66279,504.03809,496.67841,527.78027,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.25,Native,.9646,0,26-100 books,15,-.3661,89.66279,457.80521,462.7767,453.23969,0,0,0,0,0,0
+Female,Almost every day,Once or twice a week,16,Native,-.1867,0,11-25 books,13,.231,89.66279,478.5249,489.7598,472.0307,0,0,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,16.08,Native,2.5915,0,101-200 books,10,-1.0312,89.66279,439.43951,437.71631,509.62411,0,0,0,1,1,0
+Female,Never or hardly ever,Every day,15.67,Native,-.0504,0,201-500 books,10,-.1381,89.66279,523.12073,527.93469,542.07562,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,.6642,0,101-200 books,10,-1.1287,89.66279,530.66992,527.02338,567.93591,0,0,0,0,0,0
+Female,Almost every day,Never or hardly ever,16.33,Native,1.0269,0,101-200 books,15,-.5656,89.66279,445.03989,450.3576,471.26682,0,0,0,1,0,0
+Male,Once or twice a month,Almost every day,16.17,Second-Generation,.6642,0,0-10 books,10,-.9808,100.2429,482.5397,401.18799,507.73941,0,0,0,0,1,0
+Male,Once or twice a week,Almost every day,16.08,First-Generation,-.9024,0,26-100 books,13,.2884,100.2429,576.30267,589.60083,528.89618,0,0,0,0,0,0
+Male,Almost every day,Once or twice a week,16.08,Native,-3.1297,0,26-100 books,15,.5322,100.2429,559.84381,591.36169,573.95831,0,0,0,0,0,0
+Male,Once or twice a week,Never or hardly ever,16.17,Native,.0248,0,26-100 books,15,-.0889,100.2429,532.91028,512.98907,464.42639,0,0,0,0,0,0
+Female,Every day,Every day,15.75,Native,-1.5251,1,11-25 books,13,-.4726,89.66279,477.93201,468.12509,461.90671,0,0,0,0,0,0
+Female,Once or twice a week,Never or hardly ever,15.42,Native,.6642,0,201-500 books,15,-.002,89.66279,509.12021,493.3844,573.46332,0,0,0,0,0,0
+Female,Never or hardly ever,Once or twice a month,15.67,Native,1.398,0,201-500 books,13,-.1639,89.66279,482.7706,536.02942,525.25348,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.75,Native,.6642,0,0-10 books,15,-.7005,89.64529,415.67621,379.6763,396.30939,0,0,0,1,1,1
+Male,Almost every day,Every day,15.33,Native,.1434,0,101-200 books,10,-.5537,97.18827,397.52011,396.2486,384.69281,0,0,0,1,1,1
+Female,Once or twice a week,Never or hardly ever,15.58,Native,-.1662,0,26-100 books,10,-1.8806,89.64529,345.2489,420.94461,423.5665,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,15.33,Native,.2526,0,26-100 books,15,-.4619,89.64529,475.31131,479.7641,484.974,0,0,0,0,0,0
+Female,Every day,Once or twice a week,15.42,Native,-.9186,0,201-500 books,18,1.1146,89.64529,537.8103,591.58392,568.33832,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.42,Native,-.2913,0,201-500 books,10,-.7089,89.64529,494.9487,523.47998,507.87769,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.58,Native,.2526,0,26-100 books,15,-.5903,89.64529,475.14899,498.6864,515.34662,0,0,0,0,0,0
+Male,Almost every day,Almost every day,15.33,Second-Generation,-1.7673,0,101-200 books,10,-.998,97.18827,439.97351,433.50049,420.38889,0,0,0,1,1,1
+Male,Once or twice a month,Every day,15.33,Native,.6642,0,26-100 books,18,1.3098,97.18827,573.02069,598.0943,542.6756,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.67,Native,.6443,0,26-100 books,10,-1.1907,97.18827,610.92871,619.67358,586.75232,1,1,0,0,0,0
+Male,Almost every day,Every day,16.17,Native,.6846,0,101-200 books,10,-1.0708,97.18827,506.5256,524.32568,449.18619,0,0,0,0,0,1
+Male,Once or twice a week,Once or twice a week,15.67,Native,-.2269,0,26-100 books,18,1.0863,97.18827,403.55661,408.89279,388.51871,0,0,0,1,1,1
+Male,Once or twice a month,Once or twice a month,15.42,Second-Generation,-.0944,0,26-100 books,10,-1.3586,97.18827,468.87341,455.08539,450.55591,0,0,0,0,0,0
+Male,Once or twice a week,Almost every day,15.75,Native,-.6837,0,26-100 books,10,-1.2442,97.18827,440.58331,429.76749,406.2738,0,0,0,1,1,1
+Female,Never or hardly ever,Never or hardly ever,16.08,Native,.6642,0,101-200 books,10,-.5113,91.98511000000001,586.14838,608.56952,581.95752,0,1,0,0,0,0
+Female,Once or twice a month,Never or hardly ever,15.92,Native,2.5915,0,26-100 books,13,-.5305,91.98511000000001,469.8916,469.50851,479.89639,0,0,0,0,0,0
+Female,Never or hardly ever,Never or hardly ever,15.83,Native,-.6691,0,101-200 books,10,-.626,91.98511000000001,499.2063,491.35931,509.35501,0,0,0,0,0,0
+Female,Almost every day,Almost every day,16.08,Native,.2947,0,201-500 books,15,-.0261,91.98511000000001,462.25562,518.21429,515.63782,0,0,0,0,0,0
+Female,Every day,Almost every day,16.17,Native,-1.1565,0,More than 500 books,18,.8388,91.98511000000001,447.914,461.10541,470.9444,0,0,0,1,0,0
+Male,Once or twice a month,Every day,15.83,Second-Generation,.3602,0,11-25 books,10,-.962,95.65831,462.30719,506.71561,476.82651,0,0,0,0,0,0
+Male,Never or hardly ever,Never or hardly ever,15.83,Native,.1052,0,26-100 books,15,-.0978,95.65831,548.08368,610.3219,536.29657,0,1,0,0,0,0
+Male,Once or twice a week,Once or twice a week,16,Native,.1002,0,101-200 books,18,1.5924,95.65831,468.74481,483.01239,413.19879,0,0,0,0,0,1
